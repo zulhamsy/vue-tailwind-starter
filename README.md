@@ -1,17 +1,24 @@
-# VueJS + Tailwind CSS Starter Kit
-A starter pack to build Vue applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It also uses Tailwind CSS as CSS Framework and Prettier configuration
+# vue-tailwind
 
-## Usage
-### Installation
-Install the dependencies
+## Project setup
 ```
 npm install
 ```
-### Serve
+
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-### Build App
+
+### Compiles and minifies for production
 ```
 npm run build
 ```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
